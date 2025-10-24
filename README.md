@@ -4,12 +4,6 @@
 
 ---
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/bYgY5yH.gif" alt="coding banner" width="700"/>
-</p>
-
----
 
 ### 🧠 About Me
 
